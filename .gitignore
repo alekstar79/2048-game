@@ -1,0 +1,25 @@
+node_modules
+builder/
+clone/
+flags/
+dist/
+
+# local env files
+.env.local
+.env.*.local
+src/link
+
+# Log files
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+npm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
